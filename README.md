@@ -7,10 +7,10 @@ Personal LeetCode practice log — part of B25GE0101 portfolio.
 
 ## Table of Contents
 
-1. [Arrays & Strings](arrays-strings/)
+1. [Arrays & Strings](<1. arrays-strings/>)
 2. [Basic Algorithms](basic-algorithms/)
 3. [Stacks](stacks/)
-4. [Linked Lists](linked-lists/)
+4. [Linked List](<linked list/>)
 
 ## Progress
 
